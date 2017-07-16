@@ -1,0 +1,8 @@
+com\mybank\customer\model\Customer.class
+com\mybank\customer\exceptions\CustomerNotFoundException.class
+com\mybank\customer\CustomerConfiguration.class
+com\mybank\customer\api\Api.class
+com\mybank\customer\Application.class
+com\mybank\customer\model\CustomerType.class
+com\mybank\customer\intercomm\AccountClient.class
+com\mybank\customer\model\Account.class

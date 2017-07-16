@@ -1,0 +1,5 @@
+com\mybank\account\AccountConfiguration.class
+com\mybank\account\api\Api.class
+com\mybank\account\Application.class
+com\mybank\account\model\Account.class
+com\mybank\account\exceptions\AccountNotFoundException.class
